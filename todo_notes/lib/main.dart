@@ -131,7 +131,7 @@ class _TodoListPageState extends State<TodoListPage> {
                 showDialog(
                   context: context,
                   builder: (context) => AlertDialog(
-                    content: const Text('Created by Obito Uchiha'),
+                    content: const Text('Created by Daniel Sirait'),
                     actions: [
                       TextButton(onPressed: () => Navigator.pop(context), child: const Text('OK'))
                     ],
