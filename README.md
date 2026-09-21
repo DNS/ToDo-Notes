@@ -3,12 +3,9 @@ ToDo Notes is a lightweight application that enables users to create, edit, and 
 
 
 
-### Main
+### Screenshot
 
-![](./page-main.png)
+![](./screenshot.png)
 
 
-### Editing Note
-
-![](./page-edit.png)
 
